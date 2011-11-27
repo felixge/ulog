@@ -1,0 +1,19 @@
+{
+  "author": "Felix Geisendörfer <felix@debuggable.com> (http://debuggable.com/)",
+  "name": "ulog",
+  "description": "The minimal logger.",
+  "version": "0.0.0",
+  "homepage": "https://github.com/felixge/ulog",
+  "repository": {
+    "url": ""
+  },
+  "main": "./index",
+  "scripts": {
+    "test": "make test"
+  },
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
